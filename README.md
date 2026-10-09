@@ -149,3 +149,14 @@ npm run build
 - Playwright 端到端测试
 - 更精细的移动端录入动线
 
+---
+
+<div align="center">
+
+**北京韶聪泽明智能科技有限责任公司 · Zecrew**
+
+垂直行业 AI 数字员工
+
+🌐 [zecrew.com](https://zecrew.com)
+
+</div>
