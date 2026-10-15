@@ -3,3 +3,9 @@ node_modules/
 dist/
 .DS_Store
 *.log
+.env
+.env.*
+!.env.example
+__pycache__/
+项目开发日志.md
+README-CITRUS.md
